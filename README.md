@@ -6,16 +6,16 @@ In this project, we will create a C++ web server using the Boost Beast library. 
 ## To-Do List
 
 ### 1. Set Up Your Development Environment
-- [ ] Install a C++ compiler (e.g., GCC or Visual C++)
-- [ ] Install Boost C++ Libraries (if not already installed)
-- [ ] Choose a testing framework (e.g., Google Test)
+- [x] Install a C++ compiler (e.g., GCC or Visual C++)
+- [x] Install Boost C++ Libraries (if not already installed)
+- [x] Choose a testing framework (e.g., Google Test)
 
 ### 2. Create Project Structure
-- [ ] Create a new directory for your project
-- [ ] Inside the project directory, create subdirectories for source code, headers, tests, and build artifacts
+- [x] Create a new directory for your project
+- [x] Inside the project directory, create subdirectories for source code, headers, tests, and build artifacts
 
 ### 3. Write Initial Tests
-- [ ] Define a test case for server startup
+- [x] Define a test case for server startup
 - [ ] Define a test case for handling a simple HTTP GET request
 - [ ] Use the testing framework to create these test cases
 
